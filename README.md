@@ -5,5 +5,5 @@
 2.Class - Имеет поля: classID(Номер класс), className(названее класса)
 Таблицы Users и Class связаны вторичным ключем (Users_Class_FK) по полю Class.classID и Users.userClass
 
-#кто сделал 
+# кто сделал 
 Проект сделал Шарипов Идель группы 19П-1
